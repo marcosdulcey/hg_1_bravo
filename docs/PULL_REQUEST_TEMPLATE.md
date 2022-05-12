@@ -13,7 +13,7 @@ Integrantes:
 - [ ] Alfa
 - [ ] Bravo 
 - [ ] Charlie
-- [ ] Delta
+- [X] Delta
 - [ ] Echo
 
 # Seleccione el tipo de actividad
